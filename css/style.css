@@ -88,7 +88,7 @@ p {
 }
 
 #showcase {
-    background: linear-gradient(0deg, rgba(255, 0, 0, 0.397),rgba(0, 0, 255, 0.411)),  url(/img/pexels-eduardo-romero-3124079.jpg) no-repeat center center/cover;
+    background: url(/img/pexels-vincent-rivaud-2227787.jpg) no-repeat center center/cover;
     height: 600px;
     
     
@@ -112,7 +112,7 @@ p {
 #home-info .info-img {
     float: left;
     width: 50%;
-    background: url(/img/pexels-eduardo-romero-3124079.jpg) no-repeat center center/cover;
+    background: url(/img/pexels-vincent-rivaud-2227787.jpg) no-repeat center center/cover;
     min-height: 100%;
 
 }
@@ -183,7 +183,7 @@ p {
 
 #testimonials {
     height: 600px;
-    background: url(/img/pexels-eduardo-romero-3124079.jpg) no-repeat center center/cover;
+    background: url(/img/pexels-vincent-rivaud-2227787.jpg) no-repeat center center/cover;
     padding-top: 100px;
 }
 #testimonials .testimonial img {
